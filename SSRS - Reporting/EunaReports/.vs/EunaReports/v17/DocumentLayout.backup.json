@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\SSRS - Reporting\\EunaReports\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E3753A-5215-9C16-BB51-EF4FD6BC5006}|EunaReports\\EunaReports.rptproj|C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\SSRS - Reporting\\EunaReports\\EunaReports\\Sales Summary.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{C9E3753A-5215-9C16-BB51-EF4FD6BC5006}|EunaReports\\EunaReports.rptproj|solutionrelative:EunaReports\\Sales Summary.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sales Summary.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\SSRS - Reporting\\EunaReports\\EunaReports\\Sales Summary.rdl",
+              "RelativeDocumentMoniker": "EunaReports\\Sales Summary.rdl",
+              "ToolTip": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\SSRS - Reporting\\EunaReports\\EunaReports\\Sales Summary.rdl [Design]",
+              "RelativeToolTip": "EunaReports\\Sales Summary.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-24T22:36:37.319Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

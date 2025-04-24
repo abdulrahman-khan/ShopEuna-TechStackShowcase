@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "EunaReports", "EunaReports\EunaReports.rptproj", "{C9E3753A-5215-9C16-BB51-EF4FD6BC5006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9E3753A-5215-9C16-BB51-EF4FD6BC5006}.Debug|Default.ActiveCfg = Debug
+		{C9E3753A-5215-9C16-BB51-EF4FD6BC5006}.Debug|Default.Build.0 = Debug
+		{C9E3753A-5215-9C16-BB51-EF4FD6BC5006}.Debug|Default.Deploy.0 = Debug
+		{C9E3753A-5215-9C16-BB51-EF4FD6BC5006}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{C9E3753A-5215-9C16-BB51-EF4FD6BC5006}.DebugLocal|Default.Build.0 = DebugLocal
+		{C9E3753A-5215-9C16-BB51-EF4FD6BC5006}.Release|Default.ActiveCfg = Release
+		{C9E3753A-5215-9C16-BB51-EF4FD6BC5006}.Release|Default.Build.0 = Release
+		{C9E3753A-5215-9C16-BB51-EF4FD6BC5006}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAC5F22D-59D3-4D85-BE49-CB1676CDED48}
+	EndGlobalSection
+EndGlobal
