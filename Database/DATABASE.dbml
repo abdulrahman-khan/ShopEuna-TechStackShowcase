@@ -1,0 +1,47 @@
+// Use DBML to define your database structure
+// Docs: https://dbml.dbdiagram.io/docs
+
+Table Departments {
+  DepartmentID int [pk]
+  Name varchar(100)
+}
+
+Table Customers {
+  CustomerID int [pk]
+  FirstName varchar(50)
+  LastName varchar(50)
+  Email varchar(100)
+  CreatedDate date
+}
+
+Table Products {
+  ProductID int [pk]
+  Name varchar(100)
+  Price decimal(10,2)
+  DepartmentID int [ref: > Departments.DepartmentID]
+}
+
+Table Orders {
+  OrderID int [pk]
+  CustomerID int [ref: > Customers.CustomerID]
+  OrderDate date
+  TotalAmount decimal(12,2)
+}
+
+Table OrderItems {
+  OrderItemID int [pk]
+  OrderID int [ref: > Orders.OrderID]
+  ProductID int [ref: > Products.ProductID]
+  Quantity int
+  UnitPrice decimal(10,2)
+}
+
+Table Payments {
+  PaymentID int [pk]
+  OrderID int [ref: > Orders.OrderID]
+  PaymentDate date
+  Amount decimal(12,2)
+  PaymentMethod varchar(50)
+  Status varchar(20)
+}
+
