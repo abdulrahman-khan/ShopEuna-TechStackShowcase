@@ -1,10 +1,4 @@
-Here’s your content converted into a clean, professional **README.md** format for showcasing on GitHub or in a portfolio:
-
----
-
 # 💼 Euna Solutions Tech Stack Project Showcase
-
-This repository features entry-level projects designed to demonstrate core skills relevant to the **Associate Technical Solutions Specialist** role at **Euna Solutions**. These projects align closely with the technologies and responsibilities mentioned in the job posting.
 
 ---
 
@@ -24,9 +18,6 @@ A budget or expenses tracking system for a small town, built with a focus on rob
   - Parameters for filtering
   - Grouping and sorting
 
-**Why It Matters:**  
-Directly mirrors the reporting tasks described in the job role—especially with SSRS and SQL integration.
-
 ---
 
 ## 🔄 2. ETL Simulation with SQL
@@ -41,9 +32,6 @@ Simulates a basic ETL pipeline using CSV data and SQL for transformation.
 - Transform: Clean and normalize the data
 - Load: Insert into structured final tables
 
-**Why It Matters:**  
-Demonstrates essential data integration skills, which are core to the role’s ETL responsibilities.
-
 ---
 
 ## 🖥️ 3. Mini Web App with C# + SQL
@@ -57,9 +45,6 @@ A simple budgeting web app that allows users to input, store, and retrieve budge
 - User input forms
 - SQL-based data storage and queries
 - Basic analytics or chart views
-
-**Why It Matters:**  
-Showcases familiarity with the Microsoft tech stack and ability to support full lifecycle development.
 
 ---
 
