@@ -1,45 +1,67 @@
 # 💼 Euna Solutions Tech Stack Project Showcase
+Showcasing the various technologies outlined in the Associate Technical Solutions Specialist Position</bold
+**Outline**
+  1. SQL + Reporting Project (SQL, SSMS, SSRS, Visual Studio)
+  2. ETL (Python, SQL, API, Kaggle Datasets)
+
 
 ---
 
 ## 📊 1. SQL + SSRS Reporting Project
+Building SQL Database, populating data, and creating reports using SSRS
 
-**Tech Stack:** SQL Server, SSRS (via Visual Studio)
+**Technologies:** SQL Server (SSMS), SSRS (via Visual Studio)
 
-**Features:**  
-- Custom SQL Database Schema
-  ![alt text](Database-Design.png)
-  - SQL code for Table Creation, Data Population and Custom Views Provided
-- SSRS reports including:
-  - Completed Orders (Totals)
-    ![Compleated Sales Order Summary](<Sales Order Summary Report.png>)
-    - **Order Fulfillment and Inventory Managers** can check the completed orders, highlighting any potential issues in fulfillment
+**Custom SQL Database Schema**
+  <img src="Database-Design.png" alt="alt text" style="width:50%;"/> 
+  SQL code for Table Creation, Data Population and Custom Views Provided
 
-  - Orders By Categories
-  ![alt text](<Sales Orders by Department.png>)
-    - **Department Managers and Sales Teams** can track the performance of different departments, identifying high-performing areas and those needing improvemen
+**Completed Orders (Totals) Report**
+<img src="./SSRS - Reporting/Sales Order Summary Report.png" alt="Completed Sales Order Summary" width="300"/>
+**Order Fulfillment and Inventory Managers** can check the completed orders, highlighting any potential issues in fulfillment.
+
+
+**Orders By Categories**
+<img src="./SSRS - Reporting/Sales Orders by Department.png" alt="Orders by Department" width="300"/>
+**Department Managers and Sales Teams** can track the performance of different departments, identifying high-performing areas and those needing improvement.
+
+    
+
 ---
 
 ## 🔄 2. ETL Simulation with SQL
+Simulates a basic ETL Pipeline application, combining data from various sources, applying some data cleaning and quality checks before loading the data into an SQL Database.
 
-**Tech Stack:** SQL Server
+[Kaggle Dataset](https://www.kaggle.com/datasets/datascientistanna/customers-dataset)
 
-**Project Description:**  
-Simulates a basic ETL pipeline using CSV data and SQL for transformation.
+[Dummy User Data JSON](https://dummyjson.com)
 
-**Features:**  
-- Extract: Load CSV data (via Python or SQL Server import)
-- Transform: Clean and normalize the data
-- Load: Insert into structured final tables
+## ETL Script Overview
+<img src="ETL/ETL_IMAGE.png" alt="ETL Image" width="80%"/>
+
+- **Extracts** customer, product, order, and payment data from a local SQL Server database.
+- **Extracts** additional customer details from a CSV file (`Shop Customer Data.csv`).
+- **Extracts** public user data from a dummy API (`https://dummyjson.com/users`).
+- **Transforms** the API JSON response into a flattened pandas DataFrame. **Standardizes** all column names to lowercase for consistency.
+- **Merges** all datasets together using DataFrame index alignment.
+- **Outputs** a cleaned and merged customer DataFrame ready for analysis
+- **Loads** the DataFrame into an SQL Server Database
+
+
+![alt text](./Images/image.png)
+
+**Before vs After**
+<p float="left">
+  <img src="./Images/image-2.png" alt="Before" width="49%" />
+  <img src="./Images/image-1.png" alt="After" width="49%" />
+</p>
 
 ---
 
 ## 🖥️ 3. Mini Web App with C# + SQL
 
 **Tech Stack:** C#, ASP.NET, SQL Server
-
-**Project Description:**  
-A simple budgeting web app that allows users to input, store, and retrieve budget data.
+A simple web app that allows users to input, store, and retrieve order data from the database.
 
 **Features:**  
 - User input forms
