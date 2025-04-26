@@ -4,6 +4,7 @@ env/
 .env
 .venv
 ENV/
+euna_env/
 
 # Python bytecode
 __pycache__/
