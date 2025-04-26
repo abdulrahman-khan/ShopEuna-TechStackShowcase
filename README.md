@@ -6,18 +6,18 @@
 
 **Tech Stack:** SQL Server, SSRS (via Visual Studio)
 
-**Project Description:**  
-A budget or expenses tracking system for a small town, built with a focus on robust SSRS reporting.
-
 **Features:**  
-- Custom SQL database schema
+- Custom SQL Database Schema
+  ![alt text](Database-Design.png)
+  - SQL code for Table Creation, Data Population and Custom Views Provided
 - SSRS reports including:
-  - Summary tables
-  - Year-over-year trends
-  - Pie/Bar visualizations
-  - Parameters for filtering
-  - Grouping and sorting
+  - Completed Orders (Totals)
+    ![Compleated Sales Order Summary](<Sales Order Summary Report.png>)
+    - **Order Fulfillment and Inventory Managers** can check the completed orders, highlighting any potential issues in fulfillment
 
+  - Orders By Categories
+  ![alt text](<Sales Orders by Department.png>)
+    - **Department Managers and Sales Teams** can track the performance of different departments, identifying high-performing areas and those needing improvemen
 ---
 
 ## 🔄 2. ETL Simulation with SQL

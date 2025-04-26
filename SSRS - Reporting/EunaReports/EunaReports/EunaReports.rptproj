@@ -50,11 +50,14 @@
   </PropertyGroup>
   <ItemGroup>
     <DataSet Include="CompleatedOrders.rsd" />
+    <DataSet Include="DepartmentNames.rsd" />
+    <DataSet Include="OrdersView.rsd" />
   </ItemGroup>
   <ItemGroup>
     <DataSource Include="ShopEuna.rds" />
   </ItemGroup>
   <ItemGroup>
+    <Report Include="OrdersByDepartment.rdl" />
     <Report Include="Sales Summary.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />

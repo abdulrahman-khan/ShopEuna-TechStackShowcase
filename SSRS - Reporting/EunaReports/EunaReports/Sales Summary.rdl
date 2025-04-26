@@ -9,7 +9,7 @@
       <am:Name>SSDTRS</am:Name>
       <am:Version>17.13.35931.197</am:Version>
     </am:UpdatedBy>
-    <am:LastModifiedTimestamp>2025-04-24T22:36:36.2564227Z</am:LastModifiedTimestamp>
+    <am:LastModifiedTimestamp>2025-04-26T17:18:17.0115439Z</am:LastModifiedTimestamp>
   </am:AuthoringMetadata>
   <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
   <AutoRefresh>0</AutoRefresh>
@@ -89,8 +89,8 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox19</rd:DefaultName>
-            <Top>0.31125in</Top>
-            <Left>2.33333in</Left>
+            <Top>0.18625in</Top>
+            <Left>1.95833in</Left>
             <Height>0.48958in</Height>
             <Width>4.01042in</Width>
             <Style>
@@ -104,10 +104,9 @@
             </Style>
           </Textbox>
           <Line Name="Line1">
-            <Top>0.95708in</Top>
-            <Left>0.35417in</Left>
+            <Top>0.83208in</Top>
             <Height>0in</Height>
-            <Width>8.48833in</Width>
+            <Width>8.81581in</Width>
             <ZIndex>1</ZIndex>
             <Style>
               <Border>
@@ -132,8 +131,7 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox20</rd:DefaultName>
-            <Top>0.125in</Top>
-            <Left>3.99875in</Left>
+            <Left>3.62375in</Left>
             <Height>0.25in</Height>
             <Width>1in</Width>
             <ZIndex>2</ZIndex>
@@ -151,8 +149,7 @@
             <Source>Embedded</Source>
             <Value>ShopEunaLogo</Value>
             <Sizing>FitProportional</Sizing>
-            <Top>0.31125in</Top>
-            <Left>0.35417in</Left>
+            <Top>0.18625in</Top>
             <Height>0.48148in</Height>
             <Width>0.80589in</Width>
             <ZIndex>3</ZIndex>
@@ -181,14 +178,16 @@
                     </Style>
                   </TextRun>
                 </TextRuns>
-                <Style />
+                <Style>
+                  <TextAlign>Right</TextAlign>
+                </Style>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox27</rd:DefaultName>
-            <Top>0.4537in</Top>
-            <Left>6.82242in</Left>
+            <Top>0.41773in</Top>
+            <Left>6.38433in</Left>
             <Height>0.25in</Height>
-            <Width>1.99206in</Width>
+            <Width>2.44295in</Width>
             <ZIndex>4</ZIndex>
             <Style>
               <Border>
@@ -204,21 +203,21 @@
             <TablixBody>
               <TablixColumns>
                 <TablixColumn>
-                  <Width>2.11018in</Width>
+                  <Width>2.20395in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>2.11018in</Width>
+                  <Width>2.20395in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>2.11018in</Width>
+                  <Width>2.20395in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>2.11018in</Width>
+                  <Width>2.20395in</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
                 <TablixRow>
-                  <Height>0.312in</Height>
+                  <Height>0.2996in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -365,7 +364,7 @@
                   </TablixCells>
                 </TablixRow>
                 <TablixRow>
-                  <Height>0.312in</Height>
+                  <Height>0.2996in</Height>
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
@@ -467,7 +466,7 @@
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>=Fields!Order_Date.Value</Value>
+                                  <Value>=FormatDateTime(Fields!Order_Date.Value)</Value>
                                   <Style>
                                     <FontFamily>Arial</FontFamily>
                                     <FontSize>9pt</FontSize>
@@ -558,10 +557,9 @@
               </TablixMembers>
             </TablixRowHierarchy>
             <DataSetName>CompletedOrders</DataSetName>
-            <Top>1.07275in</Top>
-            <Left>0.37375in</Left>
-            <Height>0.62401in</Height>
-            <Width>8.44073in</Width>
+            <Top>0.94775in</Top>
+            <Height>0.5992in</Height>
+            <Width>8.81581in</Width>
             <ZIndex>5</ZIndex>
             <Style>
               <Border>
@@ -598,7 +596,7 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox50</rd:DefaultName>
-            <Top>1.97487in</Top>
+            <Top>1.84987in</Top>
             <Left>6.79722in</Left>
             <Height>0.25in</Height>
             <Width>2.00033in</Width>
@@ -634,7 +632,7 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox50</rd:DefaultName>
-            <Top>1.97487in</Top>
+            <Top>1.84987in</Top>
             <Left>4.46942in</Left>
             <Height>0.25in</Height>
             <Width>2.05002in</Width>
@@ -650,10 +648,9 @@
             </Style>
           </Textbox>
           <Line Name="Line2">
-            <Top>1.92646in</Top>
-            <Left>0.37042in</Left>
+            <Top>1.80146in</Top>
             <Height>0in</Height>
-            <Width>8.48833in</Width>
+            <Width>8.81581in</Width>
             <ZIndex>8</ZIndex>
             <Style>
               <Border>
@@ -662,10 +659,10 @@
             </Style>
           </Line>
         </ReportItems>
-        <Height>3.60292in</Height>
+        <Height>2.44551in</Height>
         <Style />
       </Body>
-      <Width>9.22917in</Width>
+      <Width>8.82728in</Width>
       <Page>
         <LeftMargin>1in</LeftMargin>
         <RightMargin>1in</RightMargin>

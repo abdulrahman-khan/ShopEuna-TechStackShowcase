@@ -52,3 +52,5 @@ CREATE TABLE Payments (
     Status VARCHAR(20),
     FOREIGN KEY (OrderID) REFERENCES Orders(OrderID)
 );
+
+

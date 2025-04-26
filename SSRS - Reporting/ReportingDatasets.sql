@@ -1,3 +1,4 @@
+-- CompletedOrders View
 ALTER VIEW CompletedOrders AS
 Select 
 	dbo.Payments.OrderID, PaymentDate as 'Payment_Date', dbo.Customers.FirstName as 'First_Name', dbo.Customers.LastName as 'Last Name', Amount, PaymentMethod as 'Payment_Method', OrderDate as 'Order_Date', 

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\SSRS - Reporting\\EunaReports\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C9E3753A-5215-9C16-BB51-EF4FD6BC5006}|EunaReports\\EunaReports.rptproj|C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\SSRS - Reporting\\EunaReports\\EunaReports\\OrdersByDepartment.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{C9E3753A-5215-9C16-BB51-EF4FD6BC5006}|EunaReports\\EunaReports.rptproj|solutionrelative:EunaReports\\OrdersByDepartment.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9E3753A-5215-9C16-BB51-EF4FD6BC5006}|EunaReports\\EunaReports.rptproj|C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\SSRS - Reporting\\EunaReports\\EunaReports\\Sales Summary.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
       "RelativeMoniker": "D:0:0:{C9E3753A-5215-9C16-BB51-EF4FD6BC5006}|EunaReports\\EunaReports.rptproj|solutionrelative:EunaReports\\Sales Summary.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
     }
@@ -23,6 +27,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OrdersByDepartment.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\SSRS - Reporting\\EunaReports\\EunaReports\\OrdersByDepartment.rdl",
+              "RelativeDocumentMoniker": "EunaReports\\OrdersByDepartment.rdl",
+              "ToolTip": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\SSRS - Reporting\\EunaReports\\EunaReports\\OrdersByDepartment.rdl [Design]*",
+              "RelativeToolTip": "EunaReports\\OrdersByDepartment.rdl [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-26T17:32:23.589Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Sales Summary.rdl [Design]",
               "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\SSRS - Reporting\\EunaReports\\EunaReports\\Sales Summary.rdl",
               "RelativeDocumentMoniker": "EunaReports\\Sales Summary.rdl",
