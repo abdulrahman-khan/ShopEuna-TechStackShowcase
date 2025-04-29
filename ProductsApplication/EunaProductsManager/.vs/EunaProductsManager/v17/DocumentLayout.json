@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\ProductsApplication\\EunaProductsManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3581A780-CC76-47B8-9FC0-DF87B020F988}|EunaProductsManager\\EunaProductsManager.csproj|c:\\users\\monamoe\\documents\\1_programming\\euna\\productsapplication\\eunaproductsmanager\\eunaproductsmanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3581A780-CC76-47B8-9FC0-DF87B020F988}|EunaProductsManager\\EunaProductsManager.csproj|solutionrelative:eunaproductsmanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3581A780-CC76-47B8-9FC0-DF87B020F988}|EunaProductsManager\\EunaProductsManager.csproj|c:\\users\\monamoe\\documents\\1_programming\\euna\\productsapplication\\eunaproductsmanager\\eunaproductsmanager\\customerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3581A780-CC76-47B8-9FC0-DF87B020F988}|EunaProductsManager\\EunaProductsManager.csproj|solutionrelative:eunaproductsmanager\\customerlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3581A780-CC76-47B8-9FC0-DF87B020F988}|EunaProductsManager\\EunaProductsManager.csproj|c:\\users\\monamoe\\documents\\1_programming\\euna\\productsapplication\\eunaproductsmanager\\eunaproductsmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3581A780-CC76-47B8-9FC0-DF87B020F988}|EunaProductsManager\\EunaProductsManager.csproj|solutionrelative:eunaproductsmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3581A780-CC76-47B8-9FC0-DF87B020F988}|EunaProductsManager\\EunaProductsManager.csproj|c:\\users\\monamoe\\documents\\1_programming\\euna\\productsapplication\\eunaproductsmanager\\eunaproductsmanager\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3581A780-CC76-47B8-9FC0-DF87B020F988}|EunaProductsManager\\EunaProductsManager.csproj|solutionrelative:eunaproductsmanager\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3581A780-CC76-47B8-9FC0-DF87B020F988}|EunaProductsManager\\EunaProductsManager.csproj|c:\\users\\monamoe\\documents\\1_programming\\euna\\productsapplication\\eunaproductsmanager\\eunaproductsmanager\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3581A780-CC76-47B8-9FC0-DF87B020F988}|EunaProductsManager\\EunaProductsManager.csproj|solutionrelative:eunaproductsmanager\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3581A780-CC76-47B8-9FC0-DF87B020F988}|EunaProductsManager\\EunaProductsManager.csproj|c:\\users\\monamoe\\documents\\1_programming\\euna\\productsapplication\\eunaproductsmanager\\eunaproductsmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3581A780-CC76-47B8-9FC0-DF87B020F988}|EunaProductsManager\\EunaProductsManager.csproj|solutionrelative:eunaproductsmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 371,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\ProductsApplication\\EunaProductsManager\\EunaProductsManager\\Form1.cs",
+              "RelativeDocumentMoniker": "EunaProductsManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\ProductsApplication\\EunaProductsManager\\EunaProductsManager\\Form1.cs [Design]",
+              "RelativeToolTip": "EunaProductsManager\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T22:58:27.108Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\ProductsApplication\\EunaProductsManager\\EunaProductsManager\\Program.cs",
+              "RelativeDocumentMoniker": "EunaProductsManager\\Program.cs",
+              "ToolTip": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\ProductsApplication\\EunaProductsManager\\EunaProductsManager\\Program.cs",
+              "RelativeToolTip": "EunaProductsManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:37:36.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 308,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoundedButton.cs",
+              "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\ProductsApplication\\EunaProductsManager\\EunaProductsManager\\RoundedButton.cs",
+              "RelativeDocumentMoniker": "EunaProductsManager\\RoundedButton.cs",
+              "ToolTip": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\ProductsApplication\\EunaProductsManager\\EunaProductsManager\\RoundedButton.cs",
+              "RelativeToolTip": "EunaProductsManager\\RoundedButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T00:34:54.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\ProductsApplication\\EunaProductsManager\\EunaProductsManager\\Orders.cs",
+              "RelativeDocumentMoniker": "EunaProductsManager\\Orders.cs",
+              "ToolTip": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\ProductsApplication\\EunaProductsManager\\EunaProductsManager\\Orders.cs",
+              "RelativeToolTip": "EunaProductsManager\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T00:19:10.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\ProductsApplication\\EunaProductsManager\\EunaProductsManager\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "EunaProductsManager\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\ProductsApplication\\EunaProductsManager\\EunaProductsManager\\Form1.Designer.cs",
+              "RelativeToolTip": "EunaProductsManager\\Form1.Designer.cs",
+              "ViewState": "AgIAACoBAAAAAAAAAAAiwEcBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:43:30.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerList.cs",
+              "DocumentMoniker": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\ProductsApplication\\EunaProductsManager\\EunaProductsManager\\CustomerList.cs",
+              "RelativeDocumentMoniker": "EunaProductsManager\\CustomerList.cs",
+              "ToolTip": "C:\\Users\\monamoe\\Documents\\1_Programming\\Euna\\ProductsApplication\\EunaProductsManager\\EunaProductsManager\\CustomerList.cs",
+              "RelativeToolTip": "EunaProductsManager\\CustomerList.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwC4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:28:33.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

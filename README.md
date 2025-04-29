@@ -58,15 +58,19 @@ Simulates a basic ETL Pipeline application, combining data from various sources,
 
 ---
 
-## 🖥️ 3. Mini Web App with C# + SQL
+## 🖥️ 3. C# .NET + SQL
 
 **Tech Stack:** C#, ASP.NET, SQL Server
-A simple web app that allows users to input, store, and retrieve order data from the database.
+A simple app that allows users to input, store, and retrieve Customer data from the database.
 
 **Features:**  
 - User input forms
 - SQL-based data storage and queries
-- Basic analytics or chart views
+
+<p style="display: flex; justify-content: space-between;">
+  <img src="ProductsApplication/ShopEunaProductApplication.png" id="your-image-id" style="width: 49%;" />
+  <img src="ProductsApplication/ShopEunaProductApplication2.png" id="your-image-id" style="width: 49%;" />
+</p>
 
 ---
 
