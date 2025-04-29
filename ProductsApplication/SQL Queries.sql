@@ -7,13 +7,12 @@ ORDER BY customerid;
 
 -- get specific customer id
 SELECT customerid, firstname, lastname, email, gender, age, phone, address_city, address_state, address_country
-FROM Customers
-WHERE customerid = 2;
+FROM Customers;
 
 
 -- get all the orders for that specific customer
 SELECT 
-	oi.ProductID, oi.Quantity, oi.UnitPrice, ord.CustomerID, ord.OrderDate, ord.TotalAmount, pr.Name as 'Product_name', de.Name as 'Department_Name'
+	oi.OrderItemID, oi.ProductID, oi.Quantity, oi.UnitPrice, ord.CustomerID, ord.OrderDate, ord.TotalAmount, pr.Name as 'Product_Name', de.Name as 'Department_Name'
 	--*
 FROM OrderItems as oi
 	INNER JOIN Orders as ord on ord.OrderID = oi.OrderID
