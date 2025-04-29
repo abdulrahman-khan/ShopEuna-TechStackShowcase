@@ -13,16 +13,22 @@ Building SQL Database, populating data, and creating reports using SSRS
 **Technologies:** SQL Server (SSMS), SSRS (via Visual Studio)
 
 **Custom SQL Database Schema**
-  <img src="Database-Design.png" alt="alt text" style="width:50%;"/> 
+
+  <img src="./Database/Database-Design.png" alt="alt text" style="width:50%;"/> 
+  
   SQL code for Table Creation, Data Population and Custom Views Provided
 
 **Completed Orders (Totals) Report**
+
 <img src="./SSRS - Reporting/Sales Order Summary Report.png" alt="Completed Sales Order Summary" width="300"/>
+
 **Order Fulfillment and Inventory Managers** can check the completed orders, highlighting any potential issues in fulfillment.
 
 
 **Orders By Categories**
+
 <img src="./SSRS - Reporting/Sales Orders by Department.png" alt="Orders by Department" width="300"/>
+
 **Department Managers and Sales Teams** can track the performance of different departments, identifying high-performing areas and those needing improvement.
 
     
@@ -37,7 +43,7 @@ Simulates a basic ETL Pipeline application, combining data from various sources,
 [Dummy User Data JSON](https://dummyjson.com)
 
 ## ETL Script Overview
-<img src="ETL/ETL_IMAGE.png" alt="ETL Image" width="80%"/>
+<img src="ETL/ETL_IMAGE.png" alt="ETL Image" width="50%"/>
 
 - **Extracts** customer, product, order, and payment data from a local SQL Server database.
 - **Extracts** additional customer details from a CSV file (`Shop Customer Data.csv`).
@@ -47,8 +53,7 @@ Simulates a basic ETL Pipeline application, combining data from various sources,
 - **Outputs** a cleaned and merged customer DataFrame ready for analysis
 - **Loads** the DataFrame into an SQL Server Database
 
-
-![alt text](./Images/image.png)
+<img src="./Images/image.png" alt="Before" width="49%" />
 
 **Before vs After**
 <p float="left">
