@@ -90,4 +90,9 @@ Interactive dashboard built using SQL data connected to Power BI.
 - Real-time insights
 - Slicers for filtering
 - KPIs and summary metrics
-- Time-based trend visuals
+
+
+<p style="display: flex; justify-content: space-between;">
+  <img src="PowerBI_Reports/ShopEunaSalesDashboard.png" id="your-image-id" style="width: 60%;" />
+</p>
+
