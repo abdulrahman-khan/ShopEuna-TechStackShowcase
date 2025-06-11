@@ -1,9 +1,11 @@
 # 💼 Euna Solutions Tech Stack Project Showcase
-Showcasing the various technologies outlined in the Associate Technical Solutions Specialist Position</bold
+Showcasing the various technologies outlined in the Associate Technical Solutions Specialist Position
+
 **Outline**
   1. SQL + Reporting Project (SQL, SSMS, SSRS, Visual Studio)
   2. ETL (Python, SQL, API, Kaggle Datasets)
-
+  3. Desktop CRUD Application (C#, .NET)
+  4. PowerBI Dashboard (PowerBI)
 
 ---
 
