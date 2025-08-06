@@ -1,4 +1,4 @@
-# 💼 Euna Solutions Tech Stack Project Showcase
+# 💼 Commerce Solutions Tech Stack Project Showcase
 
 **Outline**
   1. SQL + Reporting Project (SQL, SSMS, SSRS, Visual Studio)
