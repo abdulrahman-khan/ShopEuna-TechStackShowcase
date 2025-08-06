@@ -1,5 +1,4 @@
 # 💼 Euna Solutions Tech Stack Project Showcase
-Showcasing the various technologies outlined in the Associate Technical Solutions Specialist Position
 
 **Outline**
   1. SQL + Reporting Project (SQL, SSMS, SSRS, Visual Studio)
